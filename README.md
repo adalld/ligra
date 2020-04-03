@@ -1,2 +1,2 @@
 Part of [ADALLD 
-project](https://github.com/adalld/ecai)
+project](https://github.com/adalld/ecmlpkdd2020)
