@@ -1,2 +1,2 @@
 Part of [ADALLD 
-project](https://github.com/adalld/ecmlpkdd2020)
+project](https://github.com/adalld/wi2020)
